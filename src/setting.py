@@ -10,7 +10,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CONFIG_DIR = os.path.join(BASE_DIR, 'config')
 MODEL_DIR = os.path.join(BASE_DIR,  'model')
 LABEL_DIR = os.path.join(BASE_DIR, 'coco_dataset_label')
-IMAGE_DIR = os.path.join(BASE_DIR, '../images')
+IMAGE_DIR = os.path.join(BASE_DIR, '../Input_images')
 OUTPUT_DIR = os.path.join(BASE_DIR, '../output_images')
 OUTPUT_JSON = os.path.join(BASE_DIR, '../')
 
