@@ -1,4 +1,4 @@
 vir/
 __pycache__/
-*.py[cod]
+output_images/
 object_counts.json
